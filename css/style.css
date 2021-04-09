@@ -1,0 +1,1557 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+@media (max-width: 414px){
+    h6.pilihan-pengiriman{
+        margin-top: 15px;
+        font-size: 17px !important;
+    }
+
+     p.pilihan-alamat > .fa-angle-down{
+        font-size: 10.9px;
+    }
+
+    p.pilihan-alamat{
+        font-size: 12.9px;
+    
+    }
+
+    .fa-bell{
+        margin-left: 148px;
+        margin-top: 9%;
+        font-size: 39px;
+    }
+
+    #store-app{
+        width: 424px;
+        height: 1075px;
+        right: 0px;
+        top: 60px;
+        background: linear-gradient(
+    180deg
+    , #4D96FF 0%, #0BD6D6 100%);
+    }
+
+    /* Search */
+    .form-group {
+        margin-bottom: 1rem;
+        width: 390px;
+        margin-left: 5px;
+        margin-top: 24px;
+    }
+
+
+    .has-search .form-control {
+        padding-left: 2.375rem;
+        border-radius: 18px;
+    }
+    
+    .has-search .form-control-feedback {
+        position: absolute;
+        z-index: 2;
+        display: block;
+        width: 3.375rem;
+        height: 2.375rem;
+        line-height: 2.375rem;
+        text-align: center;
+        pointer-events: none;
+        color: #000;
+    }
+
+    /* banner utama pembuka */
+
+    .jumbotron{
+        margin-top: 15px;
+        background-image: url(../image/5S7i0ORPoYY.png);
+        background-size: cover;
+        height: 204px;
+        /* width: 380px; */
+        /* margin-left: 10px; */
+        margin-left: -30px;
+        width: 422px;
+    
+    }
+
+    .col-6 > .card {
+        width: 145px;
+        padding: 3px;
+        height: 52px;
+        margin-left: 8px;
+        border-radius: 10px;
+    }
+
+    p.paragraf{
+        margin-top: -12px;
+        margin-left: -11px;
+    }
+
+
+    h6.kategori{
+        margin-top: 30px;
+        font-size: 19px;
+        font-family: 'Montserrat',sans-serif;
+        margin-left: -22px;
+    }
+
+
+    #box{
+        margin-top: 1px;
+        margin-left: -6px;
+        width: 73px;
+        height: 69px;
+        left: 172px;
+        top: 436.45px;
+        background: #0BD6D6;
+        box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+        border-radius: 13px;
+    }
+
+
+    /* Promo harga */
+    .promo-harga-barang{
+        margin-left: -13px;
+        margin-top: 24px;
+    }
+
+    h6.promo-harga-cart{
+        margin-top: 4px;
+        font-weight: bold;
+        font-size: 17px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    p.spesial-harga{
+        font-size: 12px;
+        color: #fff !important;
+        line-height: 0.1px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    #menu-cart{
+        position: absolute;
+        width: 437px;
+        height: 90px;
+        left: -4px;
+        top: 692px;
+        background: #fff !important;
+    }
+
+    .image-product > img.img-fluid{
+        width: 102px;
+        margin-left: 53px;
+    }
+
+    .col-6 > h6.sayur{
+
+        margin-top: 21px;
+        margin-left: -65px;
+        font-family: 'Aclonica';
+        font-size: 27px;
+    
+    }
+
+    .col-4 > .card{
+        margin-top: 90px;
+        width: 126px;
+        margin-left: -5px;
+        height: 177px;
+        border-radius: 14px;
+    }
+    
+    section.card-cart{
+        margin-top: 74px !important;
+    }
+    
+    .card > .card-body > .image-product-1 > img.img-fluid{
+        width: 70px;
+    }
+
+    h6.nama-barang-product{
+        font-size: 14px;
+        font-family: 'Montserrat',sans-serif;
+        text-align: center;
+        font-weight: 600;
+    }
+
+    p.description{
+        font-size: 10px;
+        text-align: center;
+        line-height: 1px;
+    }
+    p.harga{
+        font-size: 12.2px;
+        text-align: center;
+        line-height: 1px;
+    }
+
+    p.deskripsi-sayur{
+        font-family: 'Montserrat',sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: -16px;
+        line-height: 1px;
+    }
+
+    /* Submenu icon */
+
+    #button-list{
+        margin-top: 70px;
+        background-color: #fff !important;
+    }
+
+    #button-list ul{
+        padding: 0;
+    }
+
+    #button-list ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+
+    /* halaman order */
+
+    h6.pesanan-judul{
+        padding: 5%;
+        margin-top: 10px;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        color: #4C98Ff;
+    }
+
+    .product-cart > h6.nama-belanja{
+        margin-top: 10px;
+        margin-left: -57px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-barang-1{
+        margin-top: 10px;
+        margin-left: -42px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-belanja-4{
+        margin-top: 4px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-3{
+        margin-top: 3px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-5{
+        margin-top: 1px;
+        margin-left: -67px;
+        font-size: 12px;
+    }
+    
+    .product-cart > p.deskripsi-total{
+        margin-left: -50px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-3{
+        margin-left: -35px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-5{
+        margin-left: -57px;
+        font-size: 11px;
+        line-height: 0px;
+    }
+
+    .product-cart > p.harga-belanjaan{
+        font-size: 11px;
+        margin-left: -18px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-3{
+        font-size: 11px;
+        margin-left: -50px;
+         line-height: 0px;
+    }
+    p.harga-belanjaan-4{
+        font-size: 11px;
+        margin-left: -32px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-5{
+      font-size: 11px;
+      margin-left: -57px;
+      line-height: 2px;
+    }
+    
+
+    .fa-times{
+        margin-left: -26px;
+        color: #4D96FF;
+        font-size: 19px;
+        margin-top: -2px
+    }
+    p.menu-name{
+        font-size: 12px;
+    }
+
+    button{
+        width: 29px;
+        height: 31px;
+        border-color: none;
+        /* outline: none; */
+        border-radius: 7px;
+        border-color: #0BD6D6;
+        color: #0BD6D6;
+        font-size: 19px;
+    }
+
+    input{
+        width: 40px;
+        font-size: 20px;
+        margin: 0 10px;
+        border: none;
+        outline: none;
+
+    }
+
+    p.hasil-belanja{
+        font-size: 15px;
+        margin-left: -39px;
+        margin-top: 46px;
+    
+    }
+    small.total-belanja-semua{
+        margin-top: 44px;
+        margin-left: 10px;
+        font-size: 15px;
+        color: #4D96FF;
+        font-family: 'Montserrat';
+
+    }
+    small.total-belanja-semua > small.rupiah{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    small.hasil-hitungan{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    #button-list-order{
+        margin-top: 13px;
+        background-color: #4D96FF !important;
+    }
+
+    #button-list-order ul{
+        padding: 0;
+    }
+
+    #button-list-order ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+}
+@media (max-width: 411px){
+    h6.pilihan-pengiriman{
+        margin-top: 15px;
+        font-size: 14px !important;
+    }
+
+     p.pilihan-alamat > .fa-angle-down{
+        font-size: 10.9px;
+    }
+
+    p.pilihan-alamat{
+        font-size: 12.7px;
+    
+    }
+
+    .fa-bell{
+        margin-left: 148px;
+        margin-top: 9%;
+        font-size: 31px;
+    }
+
+    #store-app{
+        width: 424px;
+        height: 1075px;
+        right: 0px;
+        top: 60px;
+        background: linear-gradient(
+    180deg
+    , #4D96FF 0%, #0BD6D6 100%);
+    }
+
+    /* Search */
+    .form-group {
+        margin-bottom: 1rem;
+        width: 390px;
+        margin-left: 5px;
+        margin-top: 24px;
+    }
+
+
+    .has-search .form-control {
+        padding-left: 2.375rem;
+        border-radius: 18px;
+    }
+    
+    .has-search .form-control-feedback {
+        position: absolute;
+        z-index: 2;
+        display: block;
+        width: 3.375rem;
+        height: 2.375rem;
+        line-height: 2.375rem;
+        text-align: center;
+        pointer-events: none;
+        color: #000;
+    }
+
+    /* banner utama pembuka */
+
+    .jumbotron{
+        margin-top: 15px;
+        background-image: url(../image/5S7i0ORPoYY.png);
+        background-size: cover;
+        height: 204px;
+        /* width: 380px; */
+        /* margin-left: 10px; */
+        margin-left: -30px;
+        width: 422px;
+    
+    }
+
+    .col-6 > .card {
+        width: 145px;
+        padding: 3px;
+        height: 52px;
+        margin-left: 8px;
+        border-radius: 10px;
+    }
+
+    p.paragraf{
+        margin-top: -12px;
+        margin-left: -11px;
+    }
+
+
+    h6.kategori{
+        margin-top: 30px;
+        font-size: 19px;
+        font-family: 'Montserrat',sans-serif;
+        margin-left: -22px;
+    }
+
+
+    #box{
+        margin-top: 1px;
+        margin-left: -6px;
+        width: 73px;
+        height: 69px;
+        left: 172px;
+        top: 436.45px;
+        background: #0BD6D6;
+        box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+        border-radius: 13px;
+    }
+
+
+    /* Promo harga */
+    .promo-harga-barang{
+        margin-left: -13px;
+        margin-top: 24px;
+    }
+
+    h6.promo-harga-cart{
+        margin-top: 4px;
+        font-weight: bold;
+        font-size: 17px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    p.spesial-harga{
+        font-size: 12px;
+        color: #fff !important;
+        line-height: 0.1px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    #menu-cart{
+        position: absolute;
+        width: 437px;
+        height: 90px;
+        left: -4px;
+        top: 692px;
+        background: #fff !important;
+    }
+
+    .image-product > img.img-fluid{
+        width: 102px;
+        margin-left: 53px;
+    }
+
+    .col-6 > h6.sayur{
+
+        margin-top: 21px;
+        margin-left: -65px;
+        font-family: 'Aclonica';
+        font-size: 27px;
+    
+    }
+
+    .col-4 > .card{
+        margin-top: 90px;
+        width: 126px;
+        margin-left: -5px;
+        height: 177px;
+        border-radius: 14px;
+    }
+    
+    section.card-cart{
+        margin-top: 74px !important;
+    }
+    
+    .card > .card-body > .image-product-1 > img.img-fluid{
+        width: 70px;
+    }
+
+    h6.nama-barang-product{
+        font-size: 14px;
+        font-family: 'Montserrat',sans-serif;
+        text-align: center;
+        font-weight: 600;
+    }
+
+    p.description{
+        font-size: 10px;
+        text-align: center;
+        line-height: 1px;
+    }
+    p.harga{
+        font-size: 12.2px;
+        text-align: center;
+        line-height: 1px;
+    }
+
+    p.deskripsi-sayur{
+        font-family: 'Montserrat',sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: -16px;
+        line-height: 1px;
+    }
+
+    /* Submenu icon */
+
+    #button-list{
+        margin-top: 70px;
+        background-color: #fff !important;
+    }
+
+    #button-list ul{
+        padding: 0;
+    }
+
+    #button-list ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+
+    /* halaman order */
+
+    h6.pesanan-judul{
+        padding: 5%;
+        margin-top: 10px;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        color: #4C98Ff;
+    }
+
+    .product-cart > h6.nama-belanja{
+        margin-top: 10px;
+        margin-left: -57px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-barang-1{
+        margin-top: 10px;
+        margin-left: -42px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-belanja-4{
+        margin-top: 4px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-3{
+        margin-top: 3px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-5{
+        margin-top: 1px;
+        margin-left: -67px;
+        font-size: 12px;
+    }
+    
+    .product-cart > p.deskripsi-total{
+        margin-left: -50px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-3{
+        margin-left: -35px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-5{
+        margin-left: -57px;
+        font-size: 11px;
+        line-height: 0px;
+    }
+
+    .product-cart > p.harga-belanjaan{
+        font-size: 11px;
+        margin-left: -18px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-3{
+        font-size: 11px;
+        margin-left: -50px;
+         line-height: 0px;
+    }
+    p.harga-belanjaan-4{
+        font-size: 11px;
+        margin-left: -32px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-5{
+      font-size: 11px;
+      margin-left: -57px;
+      line-height: 2px;
+    }
+    
+
+    .fa-times{
+        margin-left: -26px;
+        color: #4D96FF;
+        font-size: 19px;
+        margin-top: -2px
+    }
+    p.menu-name{
+        font-size: 12px;
+    }
+
+    button{
+        width: 29px;
+        height: 31px;
+        border-color: none;
+        /* outline: none; */
+        border-radius: 7px;
+        border-color: #0BD6D6;
+        color: #0BD6D6;
+        font-size: 19px;
+    }
+
+    input{
+        width: 40px;
+        font-size: 20px;
+        margin: 0 10px;
+        border: none;
+        outline: none;
+
+    }
+
+    p.hasil-belanja{
+        font-size: 15px;
+        margin-left: -39px;
+        margin-top: 46px;
+    
+    }
+    small.total-belanja-semua{
+        margin-top: 44px;
+        margin-left: 10px;
+        font-size: 15px;
+        color: #4D96FF;
+        font-family: 'Montserrat';
+
+    }
+    small.total-belanja-semua > small.rupiah{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    small.hasil-hitungan{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    #button-list-order{
+        margin-top: 13px;
+        background-color: #4D96FF !important;
+    }
+
+    #button-list-order ul{
+        padding: 0;
+    }
+
+    #button-list-order ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+}
+@media (max-width: 360px){
+    h6.pilihan-pengiriman{
+        margin-top: 15px;
+        font-size: 14px !important;
+    }
+
+     p.pilihan-alamat > .fa-angle-down{
+        font-size: 10.9px;
+    }
+
+    p.pilihan-alamat{
+        font-size: 10.8px;
+    }
+
+    .fa-bell{
+        margin-left: 176px;
+        margin-top: 7%;
+        font-size: 37px;
+    
+    }
+
+    #store-app{
+        width: 424px;
+        height: 1075px;
+        right: 0px;
+        top: 60px;
+        background: linear-gradient(
+    180deg
+    , #4D96FF 0%, #0BD6D6 100%);
+    }
+
+    /* Search */
+    .form-group {
+        margin-bottom: 1rem;
+        width: 390px;
+        margin-left: 5px;
+        margin-top: 24px;
+    }
+
+
+    .has-search .form-control {
+        padding-left: 2.375rem;
+        border-radius: 18px;
+    }
+    
+    .has-search .form-control-feedback {
+        position: absolute;
+        z-index: 2;
+        display: block;
+        width: 3.375rem;
+        height: 2.375rem;
+        line-height: 2.375rem;
+        text-align: center;
+        pointer-events: none;
+        color: #000;
+    }
+
+    /* banner utama pembuka */
+
+    .jumbotron{
+        margin-top: 15px;
+        background-image: url(../image/5S7i0ORPoYY.png);
+        background-size: cover;
+        height: 204px;
+        /* width: 380px; */
+        /* margin-left: 10px; */
+        margin-left: -30px;
+        width: 422px;
+    
+    }
+
+    .col-6 > .card {
+        width: 145px;
+        padding: 3px;
+        height: 52px;
+        margin-left: 8px;
+        border-radius: 10px;
+    }
+
+    p.paragraf{
+        margin-top: -12px;
+        margin-left: -11px;
+    }
+
+
+    h6.kategori{
+        margin-top: 30px;
+        font-size: 19px;
+        font-family: 'Montserrat',sans-serif;
+        margin-left: -22px;
+    }
+
+
+    #box{
+        margin-top: 1px;
+        margin-left: -6px;
+        width: 73px;
+        height: 69px;
+        left: 172px;
+        top: 436.45px;
+        background: #0BD6D6;
+        box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+        border-radius: 13px;
+    }
+
+
+    /* Promo harga */
+    .promo-harga-barang{
+        margin-left: -13px;
+        margin-top: 24px;
+    }
+
+    h6.promo-harga-cart{
+        margin-top: 4px;
+        font-weight: bold;
+        font-size: 17px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    p.spesial-harga{
+        font-size: 12px;
+        color: #fff !important;
+        line-height: 0.1px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    #menu-cart{
+        position: absolute;
+        width: 437px;
+        height: 90px;
+        left: -4px;
+        top: 692px;
+        background: #fff !important;
+    }
+
+    .image-product > img.img-fluid{
+        width: 102px;
+        margin-left: 53px;
+    }
+
+    .col-6 > h6.sayur{
+
+        margin-top: 21px;
+        margin-left: -65px;
+        font-family: 'Aclonica';
+        font-size: 27px;
+    
+    }
+
+    .col-4 > .card{
+        margin-top: 90px;
+        width: 126px;
+        margin-left: -5px;
+        height: 177px;
+        border-radius: 14px;
+    }
+    
+    section.card-cart{
+        margin-top: 74px !important;
+    }
+    
+    .card > .card-body > .image-product-1 > img.img-fluid{
+        width: 70px;
+    }
+
+    h6.nama-barang-product{
+        font-size: 14px;
+        font-family: 'Montserrat',sans-serif;
+        text-align: center;
+        font-weight: 600;
+    }
+
+    p.description{
+        font-size: 10px;
+        text-align: center;
+        line-height: 1px;
+    }
+    p.harga{
+        font-size: 12.2px;
+        text-align: center;
+        line-height: 1px;
+    }
+
+    p.deskripsi-sayur{
+        font-family: 'Montserrat',sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: -16px;
+        line-height: 1px;
+    }
+
+    /* Submenu icon */
+
+    #button-list{
+        margin-top: 70px;
+        background-color: #fff !important;
+    }
+
+    #button-list ul{
+        padding: 0;
+    }
+
+    #button-list ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+
+    /* halaman order */
+
+    h6.pesanan-judul{
+        padding: 5%;
+        margin-top: 10px;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        color: #4C98Ff;
+    }
+
+    .product-cart > h6.nama-belanja{
+        margin-top: 10px;
+        margin-left: -57px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-barang-1{
+        margin-top: 10px;
+        margin-left: -42px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-belanja-4{
+        margin-top: 4px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-3{
+        margin-top: 3px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-5{
+        margin-top: 1px;
+        margin-left: -67px;
+        font-size: 12px;
+    }
+    
+    .product-cart > p.deskripsi-total{
+        margin-left: -50px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-3{
+        margin-left: -35px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-5{
+        margin-left: -57px;
+        font-size: 11px;
+        line-height: 0px;
+    }
+
+    .product-cart > p.harga-belanjaan{
+        font-size: 11px;
+        margin-left: -18px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-3{
+        font-size: 11px;
+        margin-left: -50px;
+         line-height: 0px;
+    }
+    p.harga-belanjaan-4{
+        font-size: 11px;
+        margin-left: -32px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-5{
+      font-size: 11px;
+      margin-left: -57px;
+      line-height: 2px;
+    }
+    
+
+    .fa-times{
+        margin-left: -26px;
+        color: #4D96FF;
+        font-size: 19px;
+        margin-top: -2px
+    }
+    p.menu-name{
+        font-size: 12px;
+    }
+
+    button{
+        width: 29px;
+        height: 31px;
+        border-color: none;
+        /* outline: none; */
+        border-radius: 7px;
+        border-color: #0BD6D6;
+        color: #0BD6D6;
+        font-size: 19px;
+    }
+
+    input{
+        width: 40px;
+        font-size: 20px;
+        margin: 0 10px;
+        border: none;
+        outline: none;
+
+    }
+
+    p.hasil-belanja{
+        font-size: 15px;
+        margin-left: -39px;
+        margin-top: 46px;
+    
+    }
+    small.total-belanja-semua{
+        margin-top: 44px;
+        margin-left: 10px;
+        font-size: 15px;
+        color: #4D96FF;
+        font-family: 'Montserrat';
+
+    }
+    small.total-belanja-semua > small.rupiah{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    small.hasil-hitungan{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    #button-list-order{
+        margin-top: 13px;
+        background-color: #4D96FF !important;
+    }
+
+    #button-list-order ul{
+        padding: 0;
+    }
+
+    #button-list-order ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+}
+
+@media (max-width: 320px) {
+    h6.pilihan-pengiriman{
+        margin-top: 15px;
+        font-size: 14px !important;
+    }
+
+     p.pilihan-alamat > .fa-angle-down{
+        font-size: 10.9px;
+    }
+
+    p.pilihan-alamat{
+        font-size: 9.1px;
+    }
+
+    .fa-bell{
+        margin-left: 200px;
+        margin-top: 15%;
+        font-size: 25px;
+    }
+
+    #store-app{
+        width: 424px;
+        height: 1075px;
+        right: 0px;
+        top: 60px;
+        background: linear-gradient(
+    180deg
+    , #4D96FF 0%, #0BD6D6 100%);
+    }
+
+    /* Search */
+    .form-group {
+        margin-bottom: 1rem;
+        width: 390px;
+        margin-left: 5px;
+        margin-top: 24px;
+    }
+
+
+    .has-search .form-control {
+        padding-left: 2.375rem;
+        border-radius: 18px;
+    }
+    
+    .has-search .form-control-feedback {
+        position: absolute;
+        z-index: 2;
+        display: block;
+        width: 3.375rem;
+        height: 2.375rem;
+        line-height: 2.375rem;
+        text-align: center;
+        pointer-events: none;
+        color: #000;
+    }
+
+    /* banner utama pembuka */
+
+    .jumbotron{
+        margin-top: 15px;
+        background-image: url(../image/5S7i0ORPoYY.png);
+        background-size: cover;
+        height: 204px;
+        /* width: 380px; */
+        /* margin-left: 10px; */
+        margin-left: -30px;
+        width: 422px;
+    
+    }
+
+    .col-6 > .card {
+        width: 145px;
+        padding: 3px;
+        height: 52px;
+        margin-left: 8px;
+        border-radius: 10px;
+    }
+
+    p.paragraf{
+        margin-top: -12px;
+        margin-left: -11px;
+    }
+
+
+    h6.kategori{
+        margin-top: 30px;
+        font-size: 19px;
+        font-family: 'Montserrat',sans-serif;
+        margin-left: -22px;
+    }
+
+
+    #box{
+        margin-top: 1px;
+        margin-left: -6px;
+        width: 73px;
+        height: 69px;
+        left: 172px;
+        top: 436.45px;
+        background: #0BD6D6;
+        box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+        border-radius: 13px;
+    }
+
+
+    /* Promo harga */
+    .promo-harga-barang{
+        margin-left: -13px;
+        margin-top: 24px;
+    }
+
+    h6.promo-harga-cart{
+        margin-top: 4px;
+        font-weight: bold;
+        font-size: 17px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    p.spesial-harga{
+        font-size: 12px;
+        color: #fff !important;
+        line-height: 0.1px;
+        font-family: 'Montserrat',sans-serif;
+    }
+
+    #menu-cart{
+        position: absolute;
+        width: 437px;
+        height: 90px;
+        left: -4px;
+        top: 692px;
+        background: #fff !important;
+    }
+
+    .image-product > img.img-fluid{
+        width: 102px;
+        margin-left: 53px;
+    }
+
+    .col-6 > h6.sayur{
+
+        margin-top: 21px;
+        margin-left: -65px;
+        font-family: 'Aclonica';
+        font-size: 27px;
+    
+    }
+
+    .col-4 > .card{
+        margin-top: 90px;
+        width: 126px;
+        margin-left: -5px;
+        height: 177px;
+        border-radius: 14px;
+    }
+    
+    section.card-cart{
+        margin-top: 74px !important;
+    }
+    
+    .card > .card-body > .image-product-1 > img.img-fluid{
+        width: 70px;
+    }
+
+    h6.nama-barang-product{
+        font-size: 14px;
+        font-family: 'Montserrat',sans-serif;
+        text-align: center;
+        font-weight: 600;
+    }
+
+    p.description{
+        font-size: 10px;
+        text-align: center;
+        line-height: 1px;
+    }
+    p.harga{
+        font-size: 12.2px;
+        text-align: center;
+        line-height: 1px;
+    }
+
+    p.deskripsi-sayur{
+        font-family: 'Montserrat',sans-serif;
+        font-size: 15px;
+        font-weight: 400;
+        margin-left: -16px;
+        line-height: 1px;
+    }
+
+    /* Submenu icon */
+
+    #button-list{
+        margin-top: 70px;
+        background-color: #fff !important;
+    }
+
+    #button-list ul{
+        padding: 0;
+    }
+
+    #button-list ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+
+    /* halaman order */
+
+    h6.pesanan-judul{
+        padding: 5%;
+        margin-top: 10px;
+        font-family: 'Montserrat';
+        font-weight: 700;
+        color: #4C98Ff;
+    }
+
+    .product-cart > h6.nama-belanja{
+        margin-top: 10px;
+        margin-left: -57px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-barang-1{
+        margin-top: 10px;
+        margin-left: -42px;
+        font-size: 14px;
+    }
+    .product-cart > h6.nama-belanja-4{
+        margin-top: 4px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-3{
+        margin-top: 3px;
+        margin-left: -17px;
+        font-size: 12px;
+    }
+    .product-cart > h6.nama-belanja-5{
+        margin-top: 1px;
+        margin-left: -67px;
+        font-size: 12px;
+    }
+    
+    .product-cart > p.deskripsi-total{
+        margin-left: -50px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-3{
+        margin-left: -35px;
+        font-size: 11px;
+        line-height: 1px;
+    }
+    .product-cart > p.deskripsi-total-5{
+        margin-left: -57px;
+        font-size: 11px;
+        line-height: 0px;
+    }
+
+    .product-cart > p.harga-belanjaan{
+        font-size: 11px;
+        margin-left: -18px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-3{
+        font-size: 11px;
+        margin-left: -50px;
+         line-height: 0px;
+    }
+    p.harga-belanjaan-4{
+        font-size: 11px;
+        margin-left: -32px;
+         line-height: 2px;
+    }
+    p.harga-belanjaan-5{
+      font-size: 11px;
+      margin-left: -57px;
+      line-height: 2px;
+    }
+    
+
+    .fa-times{
+        margin-left: -26px;
+        color: #4D96FF;
+        font-size: 19px;
+        margin-top: -2px
+    }
+    p.menu-name{
+        font-size: 12px;
+    }
+
+    button{
+        width: 29px;
+        height: 31px;
+        border-color: none;
+        /* outline: none; */
+        border-radius: 7px;
+        border-color: #0BD6D6;
+        color: #0BD6D6;
+        font-size: 19px;
+    }
+
+    input{
+        width: 40px;
+        font-size: 20px;
+        margin: 0 10px;
+        border: none;
+        outline: none;
+
+    }
+
+    p.hasil-belanja{
+        font-size: 15px;
+        margin-left: -39px;
+        margin-top: 46px;
+    
+    }
+    small.total-belanja-semua{
+        margin-top: 44px;
+        margin-left: 10px;
+        font-size: 15px;
+        color: #4D96FF;
+        font-family: 'Montserrat';
+
+    }
+    small.total-belanja-semua > small.rupiah{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    small.hasil-hitungan{
+        color: #000;
+        font-family: 'Montserrat';
+    }
+
+    #button-list-order{
+        margin-top: 13px;
+        background-color: #4D96FF !important;
+    }
+
+    #button-list-order ul{
+        padding: 0;
+    }
+
+    #button-list-order ul li{
+        list-style: none;
+        float: left;
+        width: 20%;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .fa-home{
+        color: #000 !important;
+    }
+    .fa-box{
+        color: #000 !important;
+    }
+    .fa-gift{
+        color: #000 !important;
+    }
+    .fa-clock{
+        color: #000 !important;
+    }
+    .fa-user{
+        color: #000 !important;
+    }
+
+}
+
+
+
+
